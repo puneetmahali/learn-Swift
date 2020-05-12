@@ -4,7 +4,7 @@ Learn Apple's Swift programming language interactively through these playgrounds
 
 Programmers familiar with C++ and/or Objective-C.
 
-###What you'll need
+**What you'll need**
 
 You will need XCode and probably a Mac to run it on.
 
